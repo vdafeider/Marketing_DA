@@ -43,7 +43,8 @@
 ---
 
 Аналіз зроблений в Python (Jupiter Notebook) та результати повторно валідовані в Excel.
-
+* Якщо на компютері нема Python, Jupiter Notebook або Jupiter lab, скачайте HTML_Python_analysis.html і відкрийте в браузері.
+* Якщо наявний Python, Jupiter Notebook (або Jupiter Lab, VSCode) в терміналі запустіть " pip install pandas numpy matplotlib seaborn ", щоб зінсталювати бібліотеки і запустіть файл Jupiter_NB_Python_analysis.ipynb
 
     
 
